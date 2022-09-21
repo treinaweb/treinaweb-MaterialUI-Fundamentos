@@ -1,4 +1,4 @@
-const { Typography, Button } = MaterialUI;
+const { Typography, Button, Icon } = MaterialUI;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -22,13 +22,19 @@ root.render(
       click aqui !
     </MyButton>
     <div>
-      <Button disabled={true} sx={{ m: 1 }} variant="contained">
+      <Button color="error" sx={{ m: 1 }} variant="contained">
         Click
       </Button>
       <Button fullWidth color="error" variant="outlined">
         Click
       </Button>
       <Button variant="text">Click</Button>
+    </div>
+    <div>
+      <Icon color="primary">home</Icon>
+      <Icon color="secondary">search</Icon>
+      <Icon color="action">delete</Icon>
+      <Icon color="error">visibility</Icon>
     </div>
   </React.Fragment>
 );
