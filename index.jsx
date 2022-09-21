@@ -1,7 +1,9 @@
+const { Typography } = MaterialUI;
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 function MyParagrafo() {
-  return <p>Olá mundo novamente</p>;
+  return <Typography variant="h6">Olá mundo novamente</Typography>;
 }
 
 root.render(<MyParagrafo />);
