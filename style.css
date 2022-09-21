@@ -29,3 +29,8 @@
   cursor: pointer;
   text-transform: uppercase;
 }
+
+[disabled].Mycontained {
+  background-color: grey;
+  color: rgb(177, 177, 177);
+}
