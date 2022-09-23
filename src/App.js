@@ -6,6 +6,7 @@ import { ImageListItemBar, Typography, ImageList, ImageListItem, Container, Icon
 import { useTheme } from '@mui/material/styles'
 import useMediaQuery from '@mui/material/useMediaQuery';
 import InfoIcon from '@mui/icons-material/Info'
+import Footer from './ui/surfaces/footer/footer';
 const itemData = [
   {
     img: 'https://images.unsplash.com/photo-1551963831-b3b1ca40c98e',
@@ -88,17 +89,22 @@ function App() {
     <Box >
       <Header />
       <main>
-        <Box sx={{ pt: 15, maxWidth: 'sm', mx: 'auto' }} component={'section'} >
-          <Typography component={'h1'} variant={matches ? 'h4' : 'h2'} align='center'>Album de fotos</Typography>
-          <Typography paragraph variant={matches ? 'body2' : 'subtitle1'} align='center'
-            sx={{ mt: 2 }}
-          >
-            Dolor aliqua commodo enim eiusmod. Ut laboris
-            reprehenderit aliquip velit nulla magna. Eiusmod
-            duis et sunt veniam. Sit eu sint incididunt ea laboris
-            laborum mollit quis. Nisi dolore magna sunt enim nisi
-            reprehenderit nisi.
-          </Typography>
+        <Box sx={{ pt: 15, pb: 2, maxWidth: 'sm', mx: 'auto' }} component={'section'} >
+          <Container>
+
+
+            <Typography component={'h1'} variant={matches ? 'h4' : 'h2'} align='center'>Album de fotos</Typography>
+            <Typography paragraph variant={matches ? 'body2' : 'subtitle1'} align='center'
+              sx={{ mt: 2 }}
+            >
+              Dolor aliqua commodo enim eiusmod. Ut laboris
+              reprehenderit aliquip velit nulla magna. Eiusmod
+              duis et sunt veniam. Sit eu sint incididunt ea laboris
+              laborum mollit quis. Nisi dolore magna sunt enim nisi
+              reprehenderit nisi.
+            </Typography>
+          </Container>
+
         </Box>
         <Box sx={{ maxWidth: 'sm', mx: 'auto' }}>
           <Container>
@@ -127,6 +133,7 @@ function App() {
           </Container>
         </Box>
       </main>
+      <Footer />
     </Box>
   );
 }
