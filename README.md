@@ -1,70 +1,15 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Aula | Video | Commit | Link
+------ | ------ | ------ | ------
+Aula 01 | Vídeo 01 - iniciando react pelo cdn | 01:01 - iniciando react pelo cdn | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/c18de7f73db43ba92245f120932b1325aed208bc.zip)
+Aula 01 | Vídeo 03 - Configurando Babel | 01:03 - Configurando Babel | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/c69249ed08de222e5246728481effb30425376e8.zip)
+Aula 01 | Vídeo 04 - Configurando Material UI | 01:04 - Configurando Material UI | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/d36a01daa6944935af2d7cb7fca2f8ae9e3ad3d8.zip)
+Aula 02 | Vídeo 05 - Criando componente React | 02:05 - Criando componente React | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/b7a90a973ba2de65e292c5368847160b7aecafa4.zip)
+Aula 02 | Vídeo 06 - Utilizando componente MaterialUI | 02:06 - Utilizando componente MaterialUI | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/3daf495dcb7c80e8aaeb361671de9f51b3fe0c97.zip)
+Aula 02 | Vídeo 07 - utilizando icones | 02:07 - utilizando icones | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/9e78b7754f5fac1b888a7728f14b1ce4f54072b1.zip)
+Aula 03 | Vídeo 08 - Criando projeto React | 03:08 - Criando projeto React | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/f8f48045b06cf4579f095f68137c5722d5097568.zip)
+Aula 03 | Vídeo 09 - Instalação do Material UI | 03:09 - Instalação do Material UI | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/9ed7f32d6204c67796ddf8a6c43da078cf0e8dd9.zip)
+Aula 03 | Vídeo 11 - Criando Header | 03:11 - Criando Header | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/f0e185cb9b2713c4e0197b37c00b4eac4d978395.zip)
+Aula 03 | Vídeo 12 - Criando Section | 03:12 - Criando Section | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/bbcf34491121a2b24b2d86f5aa510a180306dbfc.zip)
+Aula 03 | Vídeo 13 - MediaQuery | 03:13 - MediaQuery | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/5baf78ee22b7b262be27cf5620a7a30754bdd335.zip)
+Aula 03 | Vídeo 14 - Criando componente de lista de imagens | 03:14 - Criando componente de lista de imagens | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/cd33ee31ca15249b6201f5d42a646df01c93bfed.zip)
+Aula 04 | Vídeo 19 - Criando componente de lista de imagens | 03:14 - Criando componente de lista de imagens | [Download](https://github.com/treinaweb/treinaweb-MaterialUI-Fundamentos/archive/cd33ee31ca15249b6201f5d42a646df01c93bfed.zip)
